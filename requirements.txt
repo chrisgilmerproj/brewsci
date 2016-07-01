@@ -1,8 +1,5 @@
-cycler==0.10.0
-matplotlib==1.5.1
+ipython==4.2.0
+jupyter==1.0.0
 numpy==1.11.1
-pyparsing==2.1.5
-python-dateutil==2.5.3
-pytz==2016.4
+pandas==0.18.1
 scipy==0.17.1
-six==1.10.0
