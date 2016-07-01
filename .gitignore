@@ -1,1 +1,14 @@
+*.py[o|c]
+*.swp
+env/
+.venv/
+.coverage
+nosetests.xml
+
+*.egg-info/
+build/
+dist/
+
+.tox/
+
 .ipynb_checkpoints/
