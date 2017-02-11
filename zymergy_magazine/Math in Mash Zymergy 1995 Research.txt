@@ -1,0 +1,121 @@
+Math in Mash Summer Zymergy 1995
+--------------------------------
+
+Reference Recreation Project
+
+Equations and Tables to find citation for: (x means found)
+- DeClerck: x4 7 x10 x16 22
+- Miller: Carbon Dioxide Pressures, p117 (but see chart p132-133)
+- Linke: 26, Table 4
+- Timmermans: 7 8 
+- Weast: 4
+- Unknown 1 2 3 5 6 9 x11 x12 x13 x14 x15 17 18 19 20 21 23 24 25 27 28 29 T1 T2 T3 T5
+
+--------------------------------
+
+Equation 1
+
+Equation 2
+
+Equation 3
+
+Equation 4
+SG Correction Factor - density of water at different temperatures
+DeClerck v2 p16 - Table 1
+
+Table 1 - Specific Gravity Temperature Correction
+
+TODO: Copy down data from DeClerck (DONE) and Weast
+
+Equation 5
+
+Equation 6
+
+Equation 7
+DeClerck v2 p20-p30 - Table 3
+NOTE: Should compare with Timmermans
+
+Equation 8
+
+TODO: Copy down data from DeClerk (for fit comparison)
+TODO: Copy down data from Timmermans (for fit)
+
+Equation 9
+
+Equation 10
+DeClerck v2 p428 - Table 15 gives (q=0.22 + 0.001*OE)
+
+Equation 11
+DeClerck v2 p429 - p=(n-m)/q + n
+Pick OE=12.5, which yeilds q=0.2325, to get RE=0.8114AE + 0.1886OE
+Derived from Eq 10
+
+Equation 12
+DeClerck v2 p352 and Table 3 p20
+p 371
+
+TODO: Copy down data from DeClerck
+
+Equation 13
+Derived from Eq 12
+
+Equation 14
+DeClerck v2 p429
+
+Equation 15
+chemistry eq
+
+Equation 16 
+DeClerck v2 p427 - Chapter XI Analysys of Beer
+
+Equation 17
+Derived from Eq16, Eq 9 and Eq 11.
+Need to verify.
+
+Equation 18
+Chemistry equation?
+
+Table 2 - Alcohol Percent by Weight
+Using Eq 17
+
+Table 3 - Calories per 12-ounce Bottle of Beer
+
+TODO: Recreate table 2 and 3
+
+Equation 19 - 22
+DeClerck v2 p446 - Nutrition Value of Beer
+Unclear how to estimate protein value (p376-378) 
+
+Equation 23
+Derived from Eq 22 + 9, 11, 17
+
+Equation 24
+Estimation
+
+Equation 25
+Esitmate OG 1.050 and derive from eq 23, 24
+
+Table 4 - Carbon Dioxide Equilibrium Concentration
+
+Equation 26
+Linke 
+
+TODO: Copy down data from Linke
+
+Equation 27
+
+Equation 28
+
+Equation 29
+
+Table 5 - Priming Sugar Weight (in grams) for a five gallong batch of beer
+
+
+
+----------------------------
+
+Other notes: 
+
+DeClerck v2 p444 - A well attenuated beer should not be off by more than 0.1P - 0.2P from the calculated attenuation limit.  ie, if fermentation works then the actual attenuation shouldn't be off by more than this amount from the calculated attenuation.
+
+DeClerck v2 p442 - Determine OG with Refractometer
