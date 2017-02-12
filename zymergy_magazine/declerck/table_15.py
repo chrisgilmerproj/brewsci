@@ -22,7 +22,7 @@ def main():
         q_inv = 1 / q
         p_n = 1 / (2.0665 - 0.010665 * p)
         n_m = p_n * q_inv
-        p_m = 0.0
+        p_m = p_n * 1 / (1 + q)
 
         print("{}\t{:0.3f}\t{:0.3f}\t{:0.4f}\t\t{:0.4f}\t\t{:0.4f}".format(
             p, q, q_inv, p_m, p_n, n_m))
