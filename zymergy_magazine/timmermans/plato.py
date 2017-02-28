@@ -13,7 +13,7 @@ def plato_to_sg_zymergy(plato):
           0.0038661 * plato ** 1 +
           1.3488 * 10**-5 * plato**2 +
           4.3074 * 10**-8 * plato**3)
-    return sg
+    return round(sg, 3)
 
 
 def sg_to_plato(sg):
@@ -27,7 +27,11 @@ def sg_to_plato(sg):
 
 
 def main():
-    pass
+    for plato in range(0, 34):
+        print("{}\t{:.3f}".format(plato, plato_to_sg_zymergy(plato)))
+    for sg in range(0, 145):
+        new_sg = 1 + sg / 1000.
+        print("{:.3f}\t{:.3f}".format(new_sg, sg_to_plato_zymergy(new_sg)))
 
 
 if __name__ == "__main__":
