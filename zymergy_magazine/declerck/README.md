@@ -1,10 +1,14 @@
 # Data from DeClerck - A Textbook of Brewing
 
-## Table 1
+De Clerck, Jean, A Textbook Of Brewing, Chapman & Hall Ltd., 1958.
+
+## Equations
+
+### Table 1
 
 Table of Specific Gravities of Water between 0 and 30 C., after Kohlrausch
 
-## Table 15
+### Table 15
 
 Balling's Table
 

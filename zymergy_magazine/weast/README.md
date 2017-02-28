@@ -1,5 +1,9 @@
 # Weast 
 
+Weast, Robert C., CRC Handbook of Chemistry and Physics, CRC Press, Inc., 1980.
+
+## Equations
+
 The equation to reproduce is:
 
     SG Factor = 1.00130346 - 1.34722124 * 10**-4 * T + 2.04052596 * 10**-6 * T**2 - 2.32820948 * 10**-9 * T**3

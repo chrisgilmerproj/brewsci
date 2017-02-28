@@ -8,7 +8,7 @@ Equations and Tables to find citation for: (x means found)
 - Miller: Carbon Dioxide Pressures, p117 (but see chart p132-133)
 - Linke: 26, Table 4
 - Timmermans: 7 8 
-- Weast: 4
+- Weast: x4
 - Unknown 1 2 3 5 6 9 x11 x12 x13 x14 x15 17 18 19 20 21 23 24 25 27 28 29 T1 T2 T3 T5
 
 --------------------------------
